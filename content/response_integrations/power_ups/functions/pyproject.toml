@@ -4,7 +4,7 @@ version = "34.0"
 description = "A set of math and data manipulation actions created for Google SecOps Community to power up playbook capabilities."
 requires-python = ">=3.11,<3.12"
 dependencies = [
-    "bleach==6.2.0",
+    "bleach==6.4.0",
     "hashid==3.1.4",
     "jsonpath-ng==1.7.0",
     "pillow==11.0.0",
